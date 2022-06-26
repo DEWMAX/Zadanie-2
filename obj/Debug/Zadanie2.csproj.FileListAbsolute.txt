@@ -1,0 +1,49 @@
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\ZALICZENIE INNE\Zadanie2\obj\Debug\Zadanie2.csproj.AssemblyReference.cache
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\ZALICZENIE INNE\Zadanie2\obj\Debug\MainWindow.g.cs
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\ZALICZENIE INNE\Zadanie2\obj\Debug\App.g.cs
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\ZALICZENIE INNE\Zadanie2\obj\Debug\Zadanie2_MarkupCompile.cache
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\ZALICZENIE INNE\Zadanie2\obj\Debug\Zadanie2_MarkupCompile.lref
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\ZALICZENIE INNE\Zadanie2\bin\Debug\Zadanie2.exe.config
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\ZALICZENIE INNE\Zadanie2\bin\Debug\Zadanie2.exe
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\ZALICZENIE INNE\Zadanie2\bin\Debug\Zadanie2.pdb
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\ZALICZENIE INNE\Zadanie2\obj\Debug\App.baml
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\ZALICZENIE INNE\Zadanie2\obj\Debug\MainWindow.baml
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\ZALICZENIE INNE\Zadanie2\obj\Debug\Zadanie2.g.resources
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\ZALICZENIE INNE\Zadanie2\obj\Debug\Zadanie2.Properties.Resources.resources
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\ZALICZENIE INNE\Zadanie2\obj\Debug\Zadanie2.csproj.GenerateResource.cache
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\ZALICZENIE INNE\Zadanie2\obj\Debug\Zadanie2.csproj.CoreCompileInputs.cache
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\ZALICZENIE INNE\Zadanie2\obj\Debug\Zadanie2.exe
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\ZALICZENIE INNE\Zadanie2\obj\Debug\Zadanie2.pdb
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie2\bin\Debug\Zadanie2.exe.config
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie2\bin\Debug\Zadanie2.exe
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie2\bin\Debug\Zadanie2.pdb
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie2\obj\Debug\Zadanie2.csproj.AssemblyReference.cache
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie2\obj\Debug\MainWindow.g.cs
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie2\obj\Debug\App.g.cs
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie2\obj\Debug\Zadanie2_MarkupCompile.cache
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie2\obj\Debug\Zadanie2_MarkupCompile.lref
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie2\obj\Debug\App.baml
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie2\obj\Debug\MainWindow.baml
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie2\obj\Debug\Zadanie2.g.resources
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie2\obj\Debug\Zadanie2.Properties.Resources.resources
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie2\obj\Debug\Zadanie2.csproj.GenerateResource.cache
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie2\obj\Debug\Zadanie2.csproj.CoreCompileInputs.cache
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie2\obj\Debug\Zadanie2.exe
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie2\obj\Debug\Zadanie2.pdb
+C:\Users\dawid\Desktop\Zaliczenie\2\Zadanie2\bin\Debug\Zadanie2.exe.config
+C:\Users\dawid\Desktop\Zaliczenie\2\Zadanie2\bin\Debug\Zadanie2.exe
+C:\Users\dawid\Desktop\Zaliczenie\2\Zadanie2\bin\Debug\Zadanie2.pdb
+C:\Users\dawid\Desktop\Zaliczenie\2\Zadanie2\obj\Debug\Zadanie2.csproj.AssemblyReference.cache
+C:\Users\dawid\Desktop\Zaliczenie\2\Zadanie2\obj\Debug\Zadanie2.csproj.SuggestedBindingRedirects.cache
+C:\Users\dawid\Desktop\Zaliczenie\2\Zadanie2\obj\Debug\MainWindow.g.cs
+C:\Users\dawid\Desktop\Zaliczenie\2\Zadanie2\obj\Debug\App.g.cs
+C:\Users\dawid\Desktop\Zaliczenie\2\Zadanie2\obj\Debug\Zadanie2_MarkupCompile.cache
+C:\Users\dawid\Desktop\Zaliczenie\2\Zadanie2\obj\Debug\Zadanie2_MarkupCompile.lref
+C:\Users\dawid\Desktop\Zaliczenie\2\Zadanie2\obj\Debug\App.baml
+C:\Users\dawid\Desktop\Zaliczenie\2\Zadanie2\obj\Debug\MainWindow.baml
+C:\Users\dawid\Desktop\Zaliczenie\2\Zadanie2\obj\Debug\Zadanie2.g.resources
+C:\Users\dawid\Desktop\Zaliczenie\2\Zadanie2\obj\Debug\Zadanie2.Properties.Resources.resources
+C:\Users\dawid\Desktop\Zaliczenie\2\Zadanie2\obj\Debug\Zadanie2.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\Zaliczenie\2\Zadanie2\obj\Debug\Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\Zaliczenie\2\Zadanie2\obj\Debug\Zadanie2.exe
+C:\Users\dawid\Desktop\Zaliczenie\2\Zadanie2\obj\Debug\Zadanie2.pdb
